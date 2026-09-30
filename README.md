@@ -134,6 +134,7 @@ These programs are documented for reference. They are not accepting applications
 - [ossfriendly/open-source-supporters](https://github.com/ossfriendly/open-source-supporters) - Companies that sponsor open source software.
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - Free tiers for developer and infrastructure services.
 - [sustainers/awesome-oss-funding](https://github.com/sustainers/awesome-oss-funding) - Resources for funding open source projects and their authors.
+- [zkprimecapital/awesome-web3-grants](https://github.com/zkprimecapital/awesome-web3-grants) - Active web3 grant programs across L1 and L2 ecosystems, DeFi DAOs, public goods rounds and zero-knowledge projects.
 
 ## Contributing
 
